@@ -6,13 +6,13 @@
 html {
     background-color: #cccccc;
 }
-._main_title {
+.main_title {
     border-radius: 5px;
     border: none;
     background-color: #1bb3f5;
     padding: 10px;
 }
-._title_desc {
+.title_desc {
     border-radius: 5px;
     border: none;
     background-color: #1bb3f5;
